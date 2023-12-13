@@ -8,14 +8,14 @@
 
  - ðŸ‘¨â€ðŸ¦± My name is `Aditya Putra Mahesa`
 
- - ðŸ  Live in `Semarang, Indonesia`
+ - Live in `Semarang, Indonesia`
 
- - ðŸ‘¶ðŸ» Born in `Semarang, Indonesia`
+ - Born in `Jawa Timur, Indonesia`
 
- - ðŸŒ Language
+ - Language
 
-   - ðŸ‡®ðŸ‡© Indonesian
-   - ðŸ‡¬ðŸ‡§ English
+   - Indonesian
+   - English
 
 
 <img src="https://github.com/Xyaa-Code/Xyaa-Code/blob/main/assets/images__1___7_-removebg-preview.png" width="120" height="120" align="left">
@@ -35,9 +35,9 @@ ___
 
 #### Wanna Hire Me ?
 
-- Contact : adityaputramahesa241@gmail.com
+- Contact : moch.rizky.ardianto@gmail.com
 
-### ðŸ’» Programming language used
+» Programming language used
 
 - Python (3.x.x)
 - Php
