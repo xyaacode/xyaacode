@@ -6,7 +6,7 @@
 
 ##### About Me
 
- - ðŸ‘¨â€ðŸ¦± My name is `Aditya Putra Mahesa`
+ - My name is `Aditya Putra Mahesa`
 
  - Live in `Semarang, Indonesia`
 
