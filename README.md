@@ -6,9 +6,9 @@
 
 ##### About Me
 
- - My name is `Aditya Putra Mahesa`
+ - My name is `MRZY`
 
- - Live in `Semarang, Indonesia`
+ - Live in `Java, Indonesia`
 
  - Born in `Jawa Timur, Indonesia`
 
