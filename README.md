@@ -1,6 +1,6 @@
 <h3 align="center">Hi I'm MRZY</h3>
 
-[![AdityaTwinz](https://i.ibb.co/YdXhCWY/171e56a2-4cc3-4671-b1da-ae48451122e0.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
+[![MRZY](https://i.ibb.co/YdXhCWY/171e56a2-4cc3-4671-b1da-ae48451122e0.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
 
 
 
